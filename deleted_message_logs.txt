@@ -1,0 +1,256 @@
+[@no u#0069] /on 
+[@no u#0069] /play https://www.youtube.com/watch?v=nsXwi67WgOo 
+[@no u#0069] /play https://www.youtube.com/watch?v=nsXwi67WgOo 
+[@no u#0069] /playfile\ 
+[@no u#0069] /help voice 
+[@no u#0069] /HELP VOICE 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=dQw4w9WgXcQ 
+[@no u#0069] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=7LjVcUs1LKg 
+[@TRIANGLE#6615] /pause 
+[@no u#0069] /stop 
+[@no u#0069] /playfile 
+[@no u#0069] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=mdCyzJT59nw 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=8AvEHhUKSCQ 
+[@TRIANGLE#6615] /stop 
+[@no u#0069] /play  https://www.youtube.com/watch?v=Qskm9MTz2V4 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=-Snq-FR4yiw 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=A740wBjtksI 
+[@TRIANGLE#6615] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@TRIANGLE#6615] /stop 
+[@no u#0069] /playfile 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=NkFrnFooMgk 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /playfile 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /playfile 
+[@TRIANGLE#6615] /stop 
+[@no u#0069] /playfile 
+[@Tony_Baloney#0072] /stop 
+[@TRIANGLE#6615] /play holiday 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=NkFrnFooMgk 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=pZ-oEuWMszs 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /say <@!708392304871997460> 
+[@no u#0069] /say <a:uwudab:584751310948139028> 
+[@no u#0069] /say f 
+[@no u#0069] /log general on 
+[@no u#0069] /join 
+[@no u#0069] /random 
+[@no u#0069] /on 
+[@no u#0069] /idle 
+[@no u#0069] /off 
+[@no u#0069] /on 
+[@no u#0069] /count 
+[@no u#0069] /playfile 
+[@no u#0069] /song 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /disable stop 
+[@no u#0069] /playfile 
+[@no u#0069] /join 
+[@no u#0069] /pause 
+[@no u#0069] /resume 
+[@no u#0069] /playfile 
+[@no u#0069] /join 
+[@no u#0069] /pause 
+[@no u#0069] /resume 
+[@no u#0069] /pause 
+[@no u#0069] /resume 
+[@no u#0069] /song 
+[@no u#0069] /play https://www.youtube.com/watch?v=6swmTBVI83k 
+[@no u#0069] /pause 
+[@no u#0069] /resume 
+[@no u#0069] /song 
+[@no u#0069]  
+[@no u#0069] /help -a 
+[@no u#0069] /help -a 
+[@no u#0069] /help 
+[@no u#0069] /play https://www.youtube.com/watch?v=6swmTBVI83k 
+[@no u#0069] /join 
+[@no u#0069] /pause 
+[@no u#0069] /resume 
+[@no u#0069] /song 
+[@no u#0069] /stop 
+[@no u#0069] /play https://www.youtube.com/watch?v=6swmTBVI83k 
+[@no u#0069] /join 
+[@no u#0069] /help voice 
+[@no u#0069] /voice help 
+[@no u#0069] /join!c general 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=3inBqhSSYk0 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@no u#0069] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=3inBqhSSYk0 
+[@no u#0069] /song 
+[@no u#0069] /song 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@TRIANGLE#6615] /stop 
+[@no u#0069] /song 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=A740wBjtksI 
+[@Tony_Baloney#0072] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=A740wBjtksI 
+[@Tony_Baloney#0072] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTMLSWmgSi0 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=B3pWSu_tEDU 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTMLSWmgSi0 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTMLSWmgSi0 
+[@no u#0069] /song 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=ySvK6hIk15I 
+[@no u#0069] /stop 
+[@no u#0069] /playfile 
+[@no u#0069] /song 
+[@no u#0069] /stop 
+[@no u#0069] /play https://www.youtube.com/watch?v=ySvK6hIk15I 
+[@no u#0069] /stop 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@Tony_Baloney#0072] /stop 
+[@Tony_Baloney#0072] /play 
+[@Circle#7110] https://thumbs.gfycat.com/WelllitPeacefulChihuahua-mobile.mp4 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /song 
+[@no u#0069]  
+[@no u#0069]  
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /song 
+[@no u#0069] /leave 
+[@no u#0069] /play https://www.youtube.com/watch?v=EoDu9MAvNCo 
+[@Circle#7110] /play https://www.youtube.com/watch?v=zCRORDI-ZLU 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=LD24TG33w2E 
+[@no u#0069] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=LD24TG33w2E 
+[@no u#0069] /pause 
+[@no u#0069] /stop 
+[@no u#0069] /resume 
+[@no u#0069] /stop 
+[@no u#0069] /playfile 
+[@no u#0069] /play ben is gay 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=KpeR3dIUoOA 
+[@no u#0069] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=jwVM-1VaIYQ 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=dgha9S39Y6M 
+[@Circle#7110] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=jwVM-1VaIYQ 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=dgha9S39Y6M 
+[@no u#0069] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=dgha9S39Y6M 
+[@TRIANGLE#6615] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=aCgP8BFjrw4 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=MVe7Z5AOzu8 
+[@TRIANGLE#6615] /pause 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@Circle#7110] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@Circle#7110] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=_xKFoSPnKTs 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@no u#0069] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@no u#0069] /stop 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /stop 
+[@no u#0069] /search hi 
+[@no u#0069] /join 
+[@no u#0069] /play rush e 
+[@no u#0069] /join 
+[@no u#0069] /search rush e 
+[@no u#0069] /song 
+[@no u#0069] /stop 
+[@no u#0069] /help -a 
+[@no u#0069] e 
+[@no u#0069] e 
+[@no u#0069] e 
+[@no u#0069] /search montero 
+[@no u#0069] /search montero 
+[@no u#0069] /join 
+[@no u#0069] /stop 
+[@no u#0069] /search ben is gay 
+[@no u#0069] /stop 
+[@no u#0069] /search ben is gay 
+[@no u#0069] /search ben is gay 
+[@no u#0069] /stop 
+[@no u#0069] /search ben is gay 
+[@Circle#7110] /play https://www.youtube.com/watch?v=ng4vv5Y3sp4 
+[@Tony_Baloney#0072] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=3CE1tzAF0oE 
+[@Tony_Baloney#0072] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=3CE1tzAF0oE 
+[@Circle#7110] /stop 
+[@no u#0069] /playfile 
+[@Circle#7110] /play https://www.youtube.com/watch?v=3CE1tzAF0oE 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /playfile 
+[@no u#0069] /stop 
+[@no u#0069] /join 
+[@no u#0069] /leave 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=QAZRlzNSUp0 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=QAZRlzNSUp0 
+[@Circle#7110] /play https://www.youtube.com/watch?v=KAEHPmHYpbM 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=QAZRlzNSUp0 
+[@no u#0069] /stop 
+[@no u#0069] /search lammas with hats 
+[@no u#0069] /stop 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@Tony_Baloney#0072] /stop 
+[@no u#0069] /stop 
+[@no u#0069] /join 
+[@no u#0069] /search dream speedrun music 10 hours 
+[@no u#0069] /stop 
+[@no u#0069] /search Dream Running Music 10 HOURS 
+[@no u#0069] /stop 
+[@no u#0069] /search dont mine at night 
+[@no u#0069] /stop 
+[@Tony_Baloney#0072] /play https://www.youtube.com/watch?v=6W5pq4bIzIw 
+[@Tony_Baloney#0072] e 
+[@no u#0069] /join 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /play https://www.youtube.com/watch?v=UTHLKHL_whs 
+[@no u#0069] /search INDUSTRY BABY 
+[@no u#0069] /stop 
+[@no u#0069] /search INDUSTRY BABY 
+[@Circle#7110] /play https://www.youtube.com/watch?v=0cCJ3jrsBhs 
+[@no u#0069] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=CV_G-eTPRYE 
+[@no u#0069] /stop 
+[@Circle#7110] /play https://www.youtube.com/watch?v=CV_G-eTPRYE 
+[@no u#0069] /search dream music 10 
+[@no u#0069] /stop 
+[@no u#0069] /search dream music 10 
+[@no u#0069] /stop 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@TRIANGLE#6615] /pause 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=DR_7idINKTU 
+[@TRIANGLE#6615] /pause 
+[@TRIANGLE#6615] /play https://www.youtube.com/watch?v=psuRGfAaju4 
+[@no u#0677] e 
+[@no u#0069] /help 
+[@no u#0069] e 
+[encrypted][@no u#0069] gAAAAABh6kifZKojteB-fYIxBUEix_wCuy0nY-fi7PIvEDY3apqL0MoqS58DnLwrcunE8eKFKHwJpIACGEro9vgBiEcKDDe3iA==[@no u#0069] e 
+[@no u#0069] e 
+[@no u#0069] e 
