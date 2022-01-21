@@ -6,7 +6,6 @@ import os
 import os.path
 import requests
 import json
-from PIL import Image
 import discord
 import webcolors as wc
 from PIL import Image, ImageColor
