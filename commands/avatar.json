@@ -1,0 +1,5 @@
+{
+    "NAME": "**`/avatar`**",
+    "DESC": "Shows your avatar as a photo",
+    "ARGS": "`avatar`"
+}

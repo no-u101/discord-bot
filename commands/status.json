@@ -1,0 +1,5 @@
+{
+    "NAME": "**`/(on off idle dnd)`**",
+    "DESC": "Allows you to change the status of the bot. you can change the status too on/off/idle/do not disturb.",
+    "ARGS": "`on` `off` `idle` `dnd`"
+}

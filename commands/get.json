@@ -1,0 +1,5 @@
+{
+  "NAME": "**`/get`**",
+  "DESC": "allows you to get stuff",
+  "ARGS": "`api`"
+}

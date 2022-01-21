@@ -1,0 +1,5 @@
+{
+    "NAME": "**`/count`**",
+    "DESC": "counts to the number 100",
+    "ARGS": "`count`"
+}

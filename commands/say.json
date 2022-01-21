@@ -1,0 +1,5 @@
+{
+    "NAME": "**`/say message`**",
+    "DESC": "Allows you to say a message through the bot.",
+    "ARGS": "`message`"
+}

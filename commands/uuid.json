@@ -1,0 +1,5 @@
+{
+    "NAME": "**`/uuid`**",
+    "DESC": "Generates a random uuid. You can use uuid1 or uuid4.",
+    "ARGS": "`uuid1` `uuid4`"
+}
