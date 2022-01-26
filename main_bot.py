@@ -120,25 +120,24 @@ async def on_message(message):
   if message.author == client.user:
     return
 
-  
+
   if message.author.id==(929540946654277653 or 929575388408057886 or 929579936119939113 or 929838043588861972 or 929840998064992256 or 929849440204910652 or 929854186957459486 or 687109685311963140):
     None
   else:
     if os.path.exists('user_data/' + str(message.author.id) + '.json'):
-      util.JSON.load(file=('user_data/' + str(message.author.id) + '.json'))
+      data1=util.JSON.load(file=('user_data/' + str(message.author.id) + '.json'))
       util.JSON.valuestr(file=('user_data/' + str(message.author.id) + '.json'), name="name", value=(message.author.name + '#' + message.author.discriminator))
       util.JSON.valuestr(file=('user_data/' + str(message.author.id) + '.json'), name="pfp", value=(str(message.author.avatar)))
       util.JSON.valuestr(file=('user_data/' + str(message.author.id) + '.json'), name="joined", value=(str(message.author.created_at)))
+      util.JSON.valuebool(file=('user_data/' + str(message.author.id) + '.json'), name="manually_reviewed", value=(data1["manually_reviewed"]))
     else:
       f = open("user_data/" + str(message.author.id) + ".json", "a")
-      f.write(str('{"name": "' + message.author.name + '#' + message.author.discriminator + '", "pfp": "' + str(message.author.avatar) + '", "joined": "' + str(message.author.created_at) + '"}'))
+      f.write(str('{"name": "' + message.author.name + '#' + message.author.discriminator + '", "pfp": "' + str(message.author.avatar) + '", "joined": "' + str(message.author.created_at) + '", "manually_reviewed": false}'))
       f.close()
 
   
   msg=message.content
   
-
-
 
 
 
@@ -766,6 +765,6 @@ song author """ + songauthor + """
 
 
 
-client.run(ld.token)
+client.run(ld.token)  
 
 
