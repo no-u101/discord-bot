@@ -1,3 +1,3 @@
 # discord-bot
-i know my code is bad lol
+i know my code is bad
 
